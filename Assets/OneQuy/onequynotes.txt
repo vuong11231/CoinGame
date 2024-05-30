@@ -1,0 +1,20 @@
+﻿ SAVE TO SERVER
+
+ SpaceEnemyManager.UploadEnemyData();
+ DataGameSave.SaveToServer();
+
+ ----------------------------
+ 
+ PASS
+
+ Minhminh_1
+
+ ----------------------------
+
+ MONEY
+
+ DataGameSave.dataLocal.Diamond
+
+ ----------------------------
+ 
+ - thay sprite anim

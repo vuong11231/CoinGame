@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://universe-master.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">783053247774</string>
+  <string name="google_storage_bucket" translatable="false">universe-master.appspot.com</string>
+  <string name="project_id" translatable="false">universe-master</string>
+  <string name="google_api_key" translatable="false">AIzaSyAD1_SGg-GXSZwDHPm4w2tlSoB8jB3gTBc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAD1_SGg-GXSZwDHPm4w2tlSoB8jB3gTBc</string>
+  <string name="google_app_id" translatable="false">1:783053247774:android:547b3f2ba391d7fceee50f</string>
+  <string name="default_android_client_id" translatable="false">783053247774-o2ive1icd1v5tmo55m4qh9r2ppu0su7b.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">783053247774-ubsbllckat2mfb4fr91fu9psh1ma25hg.apps.googleusercontent.com</string>
+</resources>

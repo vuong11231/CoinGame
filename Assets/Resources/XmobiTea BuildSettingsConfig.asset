@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab73aa438dd80e5499c6801fd21c368c, type: 3}
+  m_Name: XmobiTea BuildSettingsConfig
+  m_EditorClassIdentifier: 
+  useAndroidKeystore: 1
+  keystoreName: Univers_Battle.keystore
+  keystorePass: Minhminh@1
+  keyaliasName: universemaster
+  keyaliasPass: Minhminh@1
+  appleEnableAutomaticSigning: 1
+  appleDeveloperTeamID: H28BCL94X9
+  compressionFormat: 0
+  dataCaching: 0
+  decompressionFallback: 0

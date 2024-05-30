@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Orbit
+  - Canvas Popup
+  - Canvas Popup 2
+  - Enemy
+  - Sun
+  - Planet
+  - Limit
+  - UI
+  - BombZone
+  - AttackEffect_IceZone
+  - Meteor
+  - AttackEffect_FireZone
+  - AttackEffect_AntiMatter
+  - Pivot
+  - AttackEffect_Air
+  - DontDestroyOnLoad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Orbit
+  - Enemy
+  - Camera
+  - BLock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3282016223
+    locked: 0
+  - name: Fx BG
+    uniqueID: 2223465163
+    locked: 0
+  - name: Orbit
+    uniqueID: 2181220365
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Planet
+    uniqueID: 3115318597
+    locked: 0
+  - name: Fx Game
+    uniqueID: 2865097859
+    locked: 0
+  - name: UI
+    uniqueID: 686088045
+    locked: 0
+  - name: Fx
+    uniqueID: 2681996681
+    locked: 0
+  - name: Popup
+    uniqueID: 191737665
+    locked: 0
+  - name: Fx Popup
+    uniqueID: 1217555489
+    locked: 0

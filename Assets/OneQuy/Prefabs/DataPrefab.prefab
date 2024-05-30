@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7383038719681499446
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5802115722117233695}
+  - component: {fileID: 2133688043158926264}
+  m_Layer: 0
+  m_Name: DataPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5802115722117233695
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7383038719681499446}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 3.1305904, y: 0.49558443, z: 37.45156}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2133688043158926264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7383038719681499446}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01cc05a29c24aa743ba0d411c08ba29f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  airImage: {fileID: 21300000, guid: a2f79850583e92941b4238f55a995937, type: 3}
+  antimaterImage: {fileID: 21300000, guid: f1153bfd5d13a564cab479c30c807fcc, type: 3}
+  fireImage: {fileID: 21300000, guid: 383c6ff4dd00fa2418b5b0b402a76ad3, type: 3}
+  gravityImage: {fileID: 21300000, guid: b6935d60075ae21488409bcd6c339ac1, type: 3}
+  iceImage: {fileID: 21300000, guid: 23513b85e80cef04fa68084986f0cb13, type: 3}
+  airImageEffect: {fileID: 21300000, guid: 20b344a3695ca0b41a2996531aaa22c3, type: 3}
+  antimaterEffect: {fileID: 21300000, guid: 5c4462886b39c684d92894ccaeb9bc58, type: 3}
+  fireImageEffect: {fileID: 21300000, guid: 81622b3c8bed35243868d08161c5b4a7, type: 3}
+  gravityImageEffect: {fileID: 21300000, guid: 85571327554f2c04ea558ce804b1b37b, type: 3}
+  iceImageEffect: {fileID: 21300000, guid: e6929e7b6bf727d45b2c871e60a42f52, type: 3}
+  skinSprites:
+  - {fileID: 21300000, guid: d4ab55e50a765554eb86c35e6186d6bf, type: 3}
+  - {fileID: 21300000, guid: 07e49ab0fb880e14f9242a8391d2103b, type: 3}
+  - {fileID: 21300000, guid: b6dac0f7bc7590c45b9571f386a35c32, type: 3}
+  - {fileID: 21300000, guid: b44f786d489757a4583ab765fd979621, type: 3}
+  - {fileID: 21300000, guid: 08447077fa3e2204087218b614117d77, type: 3}
+  - {fileID: 21300000, guid: 86c5aea6a071b474ba415b536936a53a, type: 3}
+  - {fileID: 21300000, guid: cfdf7d27986962540a03a289ed9d2d90, type: 3}
+  - {fileID: 21300000, guid: bbde069a3b9badd41b95eb5b729ddf42, type: 3}
+  - {fileID: 21300000, guid: 8f3832b15e8dc1f46a11f7227bea1d99, type: 3}
+  - {fileID: 21300000, guid: 086b63a330c01d349afe76c9686c3394, type: 3}
+  - {fileID: 21300000, guid: 9e5bed1d8bbd14243b9d2c67ac9707cb, type: 3}
+  - {fileID: 21300000, guid: 84ed40f3b6c9a1042859ef212ad425e8, type: 3}
+  - {fileID: 21300000, guid: 0621f0caae76d2242a2d77c9fe43e377, type: 3}
+  - {fileID: 21300000, guid: a65ace21c2d2b434da355daea5b7f44e, type: 3}
+  - {fileID: 21300000, guid: 72360fd655fb6214b9c0b62115eba1ca, type: 3}
+  - {fileID: 21300000, guid: 225cf3710cd7fc045bf5238e49e1769a, type: 3}
+  - {fileID: 21300000, guid: 23f0f76d1d398cd47a9c9dac7b5a573c, type: 3}
+  - {fileID: 21300000, guid: 20a70182e05d9e34e997400f65acdecd, type: 3}
+  - {fileID: 21300000, guid: e4a6250fe74f3754ca14522878fbedca, type: 3}
+  - {fileID: 21300000, guid: 97c507fcb6ecef64bb5890e0b6b241aa, type: 3}
+  - {fileID: 21300000, guid: 3b95b728c286513429c2d4a77faf2482, type: 3}
+  - {fileID: 21300000, guid: cbbdae7c50a9cd344b14dcae5350bba9, type: 3}
+  - {fileID: 21300000, guid: afae9c5fffb05cb438240e0e53aecbb1, type: 3}

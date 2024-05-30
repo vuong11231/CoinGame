@@ -1,0 +1,40 @@
+﻿public class EmojiList
+{
+    public static string GrinningFace = "\U0001F600";
+    public static string FaceWithTearsOfJoy = "\U0001F602";
+    public static string WinkingFace = "\U0001F609";
+    public static string CryingFace = "\U0001F622";
+    public static string LoudlyCryingFace = "\U0001F62D";
+    public static string Skull = "\U0001F480";
+    public static string Alien = "\U0001F47D";
+    public static string Man = "\U0001F468";
+    public static string Woman = "\U0001F469";
+    public static string BabyAngel = "\U0001F47C";
+    public static string SantaClaus = "\U0001F385";
+    public static string MrsClaus = "\U0001F936";
+    public static string Mage = "\U0001F9D9";
+    public static string FlexedBiceps = "\U0001F4AA";
+    public static string BackhandIndexPointingLeft = "\U0001F448";
+    public static string BackhandIndexPointingUp = "\U0001F446";
+    public static string VictoryHand = "\u270C";
+    public static string ThumbsUp = "\U0001F44D";
+    public static string OncomingFist = "\U0001F44A";
+    public static string KissMark = "\U0001F48B";
+    public static string RedHeart = "\u2764";
+    public static string Zzz = "\U0001F4A4";
+    public static string Bomb = "\U0001F4A3";
+    public static string GemStone = "\U0001F48E";
+    public static string BirthdayCake = "\U0001F382";
+    public static string GlobeWithMeridians = "\U0001F310";
+    public static string House = "\U0001F3E0";
+    public static string Castle = "\U0001F3F0";
+    public static string Automobile = "\U0001F697";
+    public static string GlowingStar = "\U0001F31F";
+    public static string Sparkles = "\u2728";
+    public static string WrappedGift = "\U0001F381";
+    public static string Trophy = "\U0001F3C6";
+    public static string MilitaryMedal = "\U0001F396";
+    public static string SportsMedal = "\U0001F3C5";
+    public static string MoneyBag = "\U0001F4B0";
+    public static string HeavyDollarSign = "\U0001F4B2";
+}

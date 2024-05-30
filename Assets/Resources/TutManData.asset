@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3e8108b196d3fd40ba790fd3dd1648b, type: 3}
+  m_Name: TutManData
+  m_EditorClassIdentifier: 
+  steps:
+  - name: explore button
+    localPos: {x: 275, y: -696}
+    size: 10847
+  - name: neighbor btn - explore scene
+    localPos: {x: -169, y: 281}
+    size: 15000
+  - name: attact btn - neighbor scene
+    localPos: {x: -228, y: 239}
+    size: 4383
+  - name: focus sun - battle
+    localPos: {x: 0, y: -508.89}
+    size: 13263
+  - name: focus sun enemy - battle
+    localPos: {x: 0, y: 274.77}
+    size: 15000
+  - name: focus shoot btn - battle
+    localPos: {x: 297, y: -696}
+    size: 6996
+  - name: focus skip btn - gameplay
+    localPos: {x: -297, y: 97}
+    size: 5994

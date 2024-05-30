@@ -1,0 +1,42 @@
+[
+  {
+    "typePlanet": "Antimatter",
+    "antimatter": 1,
+    "air": 1,
+    "ice": 1,
+    "gravity": 1,
+    "fire": 1
+  },
+  {
+    "typePlanet": "Gravity",
+    "antimatter": 1,
+    "air": 1,
+    "ice": 1,
+    "gravity": 1,
+    "fire": 1
+  },
+  {
+    "typePlanet": "Air",
+    "antimatter": 1,
+    "air": 1,
+    "ice": 1,
+    "gravity": 1,
+    "fire": 1
+  },
+  {
+    "typePlanet": "Fire",
+    "antimatter": 1,
+    "air": 1,
+    "ice": 1,
+    "gravity": 1,
+    "fire": 1
+  },
+  {
+    "typePlanet": "Ice",
+    "antimatter": 1,
+    "air": 1,
+    "ice": 1,
+    "gravity": 1,
+    "fire": 1
+  }
+]

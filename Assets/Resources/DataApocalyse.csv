@@ -1,0 +1,51 @@
+Wave ,Số lượng,Phần thưởng,Thời gian,Thiên thạch nhỏ,Thiên Thạch Màu,Kim cương,Thiên thạch khủng lồ,,Buff,,,,Tỷ lệ
+1,100,kc,5s+lvs,50,2,2,,,Hồi sinh tất cả hành tinh,,,,100%
+2,10,đá hố đen,lv1 + 1,55,2,2,,,Buff tất cả tăng 20% máu,,,,30%
+3,5,đá effect random,,60,2,2,,,Buff quay nhanh hơn 50%,,,,20%
+4,10,Random hành tinh,,65,2,2,,,Buff bất tử 5 giây,,,,5%
+5,1,Rương,,70,4,2,1,,Buff biến hành tinh khi nổ sẽ sinh ra hố đen,,,,5%
+6,150,kc,,75,2,2,,,Buff biến hành tinh khi nổ sẽ sinh ra vùng đống băng,,,,20%
+7,15,đá hố đen,,80,2,2,,,Buff biến hành tinh khi nổ sẽ tạo ra xung lực đẩy văng thiên thạch,,,,10%
+8,6,đá effect random,,85,2,2,,,Buff biến hành tinh khi nổ sẽ tạo 1 vùng lửa cháy ở 1 khu vực lớn,,,,10%
+9,15,Random hành tinh,,90,2,2,,,,,,,
+10,2,Rương,,95,4,2,2,,,,,,
+11,200,kc,,10,40,10,,,Xem video để được nhận 2 buff,,,,
+12,20,đá hố đen,,105,4,2,,,,,,,
+13,7,đá effect random,,110,4,2,,,,,,,
+14,20,Random hành tinh,,115,4,2,,,,,,,
+15,3,Rương,,120,4,2,3,,,,,,
+16,250,kc,,0,4,100,,,,,,,
+17,25,đá hố đen,,5,4,2,,,,,,,
+18,8,đá effect random,,130,4,2,,,,,,,
+19,25,Random hành tinh,,135,4,2,,,,,,,
+20,4,Rương,,140,4,2,4,,,,,,
+21,300,kc,,145,4,2,,,,,,,
+22,30,đá hố đen,,150,4,2,,,,,,,
+23,9,đá effect random,,0,100,2,,,,,,,
+24,30,Random hành tinh,,160,10,2,,,,,,,
+25,5,Rương,,165,10,2,5,,,,,,
+26,350,kc,,170,10,2,,,,,,,
+27,35,đá hố đen,,175,10,2,,,,,,,
+28,10,đá effect random,,180,10,2,,,,,,,
+29,35,Random hành tinh,,185,10,2,,,,,,,
+30,6,Rương,,190,10,2,,,,,,,
+31,400,kc,,195,10,2,6,,,,,,
+32,40,đá hố đen,,0,50,50,,,,,,,
+33,11,đá effect random,,205,10,2,,,,,,,
+34,40,Random hành tinh,,210,10,2,,,,,,,
+35,7,Rương,,215,10,2,,,,,,,
+36,450,kc,,220,10,2,7,,,,,,
+37,45,đá hố đen,,225,10,2,,,,,,,
+38,12,đá effect random,,230,10,2,,,,,,,
+39,45,Random hành tinh,,235,10,2,,,,,,,
+40,8,Rương,,240,10,2,8,,,,,,
+41,500,kc,,245,10,2,,,,,,,
+42,50,đá hố đen,,250,10,2,,,,,,,
+43,13,đá effect random,,255,10,2,,,,,,,
+44,50,Random hành tinh,,260,10,2,,,,,,,
+45,9,Rương,,0,10,120,20,,,,,,
+46,550,kc,,270,10,2,,,,,,,
+47,55,đá hố đen,,275,10,2,,,,,,,
+48,14,đá effect random,,280,10,2,,,,,,,
+49,55,Random hành tinh,,285,10,2,,,,,,,
+50,10,Rương,,0,0,0,40,,,,,,
